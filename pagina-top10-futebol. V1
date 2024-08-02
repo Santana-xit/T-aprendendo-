@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portal Cerrisete</title>
+    <link rel="stylesheet" type="text/css" href="Hugo-e-lindo.css">
+    </style>
+</head>
+<body>
+    <div id="marca">P O R T A L &nbsp;&nbsp;&nbsp; S A N T A N A</div>
+    <br>
+    <br>
+    <br>
+    <h1>Confira! Os 10 maiores jogadores da história</h1>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <br>
+    <ol reversed>
+        <li class = "nome-jogadores">Flávio Caça-Rato</li>
+        <br>
+        <img class = "futebol" src="caca-rato.jpeg" >
+        <p class = "descricao">Nada a dizer. Apenas o maior jogador do brasileirão de todos os tempos</p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Zidane</li>
+        <br>
+        <br>
+        <img class = "futebol" src="zidane.jpg">
+        <br>
+        <p class = "descricao">Zinedine Zidane, o mágico do futebol, encantava <br> com sua versatilidade tática. <br> ernava entre formações como 4-3-3, 4-2-3-1 e 4-4-2, <br> exibindo visão de jogo e habilidades de liderança. <br>Sua magia estava nos dribles, passes e visão de jogo, <br> cativando torcedores em todo o mundo.</p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Franz beckenbauer</li>
+        <br>
+        <br>
+        <img class = "futebol" src="beckenbauer.jpeg"> 
+        <br>
+        <p class = "descricao">Franz beckenbauer, conhecido como “O Imperador”, <br> foi um lendário jogador alemão que brilhou <br> como zagueiro e líbero. Ele conquistou a Copa do Mundo <br> tanto como jogador (em 1974) quanto como técnico <br> (em 1990), um feito raro e impressionante.</p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Di Stéfano</li>
+        <br>
+        <img class = "futebol" src="Di_Stefano_.jpg" >
+        <p class = "descricao">A lendária “Flecha Loira”. Ele brilhou no River Plate, Milionarios da Colômbia e, <br>principalmente, no Real Madrid, onde se tornou uma lenda do futebol mundial. <br> Sua velocidade, habilidade e liderança inspiraram gerações de jogadores.</p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Johan Cruyff</li>
+        <br>
+        <img class = "futebol" src="Cruyff.jpg" >
+        <br>
+        <p class = "descricao">Johan Cruyff, lendário jogador e técnico,<br> revolucionou o futebol com sua visão tática, jogo ofensivo e <br>domínio posicional, tornando-se uma figura inesquecível no “futebol total”.</p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Ronaldo Fenômeno</li>
+        <br>
+        <img class = "futebol" src="fenomeno.jpg"nome-jogadores"no.jpg" >
+        <br>
+        <p class = "descricao">Ronaldo Luís Nazário de Lima, conhecido como Ronaldo Fenômeno, <br>foi um ex-futebolista brasileiro que atuava como centroavante. <br>Ele é amplamente reconhecido como um dos melhores jogadores <br>de todos os tempos, famoso por suas arrancadas, dribles e incrível capacidade de finalização.</p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Maradona</li>
+        <br>
+        <img class = "futebol" src="maradona.jfif" >
+        <br>
+        <p class = "descricao">Maradona, o “El Pibe de Oro”, foi um gênio do futebol, <br>liderando a Argentina na conquista da Copa do Mundo de 1986 <br>e deixando uma marca indelével na história do esporte. </p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Cristiano Ronaldo</li>
+        <br>
+        <img class = "futebol" src="cr7.jfif" >
+        <br>
+        <p class = "descricao">Simplesmente, o homem, a máquina, <br>o craque. O homem que mostrou que a disciplina, <br>o foco e o trabalho duro podem nos levar <br>ao topo. O maior artilheiro de todos os tempos </p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Messi</li>
+        <br>
+        <img class = "futebol" src="messi.jpg" >
+        <br>
+        <p class = "descricao">Lionel Messi, simplesmente o maior <br> campeão da bola de ouro da história. <br>Sendo elegido 8 vezes e encantando o <br>mundo com seu futebol de raciocínio <br>rapido e fora do comum. Simplesmente o ET</p>
+        <br>
+        <br>
+        <br>
+        <li class = "nome-jogadores">Pelé</li>
+        <br>
+        <img class = "futebol"h src="pele.jfif" >
+        <br>
+        <p class = "descricao">Nada a dizer. O Rei do Futebol. Mágico <br> em seu jeito de jogar, um ponta de lança,<br> ou como é mais conhecido, meia <br> armador de excelentíssima qualidade</p>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <br>
+        <p id = "creditos">© 2024 Santana's copyright</p>
+    </ol>
+</body>
+</html>

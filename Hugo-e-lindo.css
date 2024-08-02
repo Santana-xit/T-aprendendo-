@@ -1,0 +1,39 @@
+.futebol {
+    
+    max-width: 300px;
+    max-width: 300px;
+    width: auto;
+    height: auto;
+
+}
+#marca {
+    font-size: 30px;
+    font-family: "Josefin Sans", Impact, "Open Sans";
+    text-align: center;
+    width: 20;
+    height: 30;
+    background-color: #e7c494;
+    border-radius: 5px; 
+    margin: 10;
+    padding: 20px
+}
+body {
+    background-color: white;
+}
+.nome-jogadores{
+    font-size: 40px;
+    font-family: impact;
+    color: black;
+    font-weight: 20;
+}
+#creditos {
+    text-align: center;
+
+}
+h1 {
+    font-size: 30px;
+}
+.descricao {
+    font-size: 18px;
+    
+}
